@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: #000015;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1, #lists-container {
+    color: white;
+}
+
+#generate-list-btn, #display-list-btn {
+    margin-bottom: 30px;
+}
+
+#lists-container {
+    margin-top: 30px;
+}
